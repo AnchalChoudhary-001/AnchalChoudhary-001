@@ -1,4 +1,4 @@
-![logo](
+![logo](https://github.com/AnchalChoudhary-001/AnchalChoudhary-001/blob/main/github.banner.png)
 <h1 align="center">Hi 👋, I'm Anchal Choudhary</h1>
 <h3 align="center">A passionate full stack Web developer</h3>
 
