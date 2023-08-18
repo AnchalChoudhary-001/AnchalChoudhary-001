@@ -30,8 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymecoffe AnchalChoudhary-001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymecoffe AnchalChoudhary-001" /></a><a href="https://ko-fi.com/Ko-fi AnchalChoudhary-001"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-fi AnchalChoudhary-001" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anchalchoudhary-001&show_icons=true&locale=en&layout=compact" alt="anchalchoudhary-001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxminishad2001&show_icons=true&locale=en&layout=compact" alt="laxminishad2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anchalchoudhary-001&show_icons=true&locale=en" alt="anchalchoudhary-001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxminishad2001&show_icons=true&locale=en" alt="laxminishad2001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anchalchoudhary-001&" alt="anchalchoudhary-001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laxminishad2001&" alt="laxminishad2001" /></p>
